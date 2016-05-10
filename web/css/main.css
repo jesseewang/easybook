@@ -1,0 +1,24 @@
+/* 
+    Document   : main
+    Created on : 2011-1-25, 16:15:32
+    Author     : Jessee
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+body {margin:0 auto;}
+div{margin: 0px auto;}
+.bookMenu {width:1000px;}
+.bookMenu ul{list-style: none;}
+.bookMenu li {float:left;width:50px;}
+
+.content {width: 1000px; font: 14px '微软雅黑';}
+.article_footer {width:1000px; text-align: center;}
