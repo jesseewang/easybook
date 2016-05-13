@@ -9,11 +9,8 @@
 // Database setting
 define("DB_HOST", 'localhost');
 define("DB_USER", 'book');
-define("DB_PASSWORD", 'mysql');
-define("DATABASE", 'easybook');
-
-// Source host setting
-define("SOURCE_HOST", 'http://www.book-list.com');
+define("DB_PASSWORD", '');
+define("DATABASE", '');
 
 // Log files setting
 define("LOG_DIR", '/opt/book/base/logs');
